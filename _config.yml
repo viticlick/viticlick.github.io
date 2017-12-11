@@ -15,7 +15,8 @@ description: > # this means to ignore newlines until "baseurl:"
  #baseurl: "/blog" # the subpath of your site, e.g. /blog
 #url: "http://viticlick.eu" # the base hostname & protocol for your site
 twitter_username: viticlick 
-github_username:  viticlick 
+github_username:  viticlick
+linkedin_username: viticlick
 
 # Build settings
 markdown: kramdown
