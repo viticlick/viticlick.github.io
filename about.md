@@ -4,8 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Este es un tema simple de Jekyll. Tu puedes encontrar más información sobre personalizar tu tema Jekyll revisando la documentación en [jekyllrb.com](http://jekyllrb.com/). Además, tu puedes encontrar muchos más temas en [jekyllthemes.org](http://jekyllthemes.org/)
+Soy Víctor López, padre de Vera y pareja de Iria. 
 
-Tu puedes encontrar el código fuente para la base de este tema en : <data data-icon="ei-sc-github"></data>  [jekyll-simple](https://github.com/wild-flame/jekyll-simple)
 
-Tu puedes encontrar el código fuente de Jekyll en <data data-icon="ei-sc-github"></data>  [jekyll](https://github.com/jekyll/jekyll)
+Soy licenciado en Ingeniería Informática por la Universidad de Vigo, y trabajo
+profesionalmente en el sector tecnológico desde 2013. He pasado por una gran
+variedad de empresas durante todo este camino. Actualmentedisfruto de mi puesto
+de trabajo en [Trileuco](https://trileucosolutions.com/) la mejor empresa entre
+todas ellas.
+
+Mi perfil está orientado al mundo Java, pero eso no impide que parte del tiempo
+lo dedique a crear scripts en lenguajes como python o bash, e incluso plantar
+cara a javascript y muchos de sus frameworks (react, JQuery, Backbone... ). 
+Una de mis grandes objetivos, a parte del desarrollo de aplicaciones java es 
+automatizar aquello que pueda ser automatizado y aislarlo en contenedores docker. 
