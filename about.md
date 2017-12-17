@@ -9,8 +9,8 @@ Soy Víctor López, padre de Vera y pareja de Iria.
 
 Soy licenciado en Ingeniería Informática por la Universidad de Vigo, y trabajo
 profesionalmente en el sector tecnológico desde 2013. He pasado por una gran
-variedad de empresas durante todo este camino. Actualmentedisfruto de mi puesto
-de trabajo en [Trileuco](https://trileucosolutions.com/) la mejor empresa entre
+variedad de empresas durante todo este camino. Actualmente disfruto de mi puesto
+de trabajo en [Trileuco](https://trileucosolutions.com/), la mejor empresa entre
 todas ellas.
 
 Mi perfil está orientado al mundo Java, pero eso no impide que parte del tiempo
