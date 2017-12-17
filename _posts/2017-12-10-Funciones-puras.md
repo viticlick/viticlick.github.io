@@ -2,7 +2,7 @@
 layout: post
 title:  Funciones Puras
 description: En el siguiente post explicamos qué es una función pura.
-category: java
+category: Java
 tags: [java, programación funcional]
 ---
 Las funciones puras son utilizadas en el paradigma de la programación funcional y proporcionan un mecanismo de confianza para los programas concurrentes. Pero, ¿qué significa una _"función pura"_?

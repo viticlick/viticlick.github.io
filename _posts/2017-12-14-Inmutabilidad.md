@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Inmutabilidad de Objetos en Java
-category: Java 
+category: Java
 description: Explicamos qué son los objetos inmutables y su importancia en el desarrollo del software. 
 ---
 Imagina un lugar en donde los programas concurrentes los cuales programar los
