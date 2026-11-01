@@ -4,17 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Soy Víctor López, padre de Vera y pareja de Iria. 
+Ingeniero de software usando IA cada día. Sin hype: lo que funciona, lo que falla.
 
+Soy Víctor López. Licenciado en Ingeniería Informática por la Universidad de Vigo, trabajo en el sector tecnológico desde 2013 y actualmente soy ingeniero de software en [Barkibu](https://www.barkibu.com/es).
 
-Soy licenciado en Ingeniería Informática por la Universidad de Vigo, y trabajo
-profesionalmente en el sector tecnológico desde 2013. He pasado por una gran
-variedad de empresas durante todo este camino. Actualmente disfruto de mi puesto
-de trabajo en [Trileuco](https://trileucosolutions.com/), la mejor empresa entre
-todas ellas.
+Mi perfil está orientado al backend, sobre todo en Java, y dedico parte del tiempo a scripts en Python y Bash. He trabajado como consultor para Inditex y grandes operadoras de telecomunicaciones, y en empresas de producto como [Netex](https://www.netexlearning.com/en/).
 
-Mi perfil está orientado al mundo Java, pero eso no impide que parte del tiempo
-lo dedique a crear scripts en lenguajes como python o bash, e incluso plantar
-cara a javascript y muchos de sus frameworks (react, JQuery, Backbone... ). 
-Una de mis grandes objetivos, a parte del desarrollo de aplicaciones java es 
-automatizar aquello que pueda ser automatizado y aislarlo en contenedores docker. 
+Hoy me interesa la IA aplicada al día a día del desarrollo: qué automatiza de verdad, dónde se equivoca y cómo integrarla sin perder calidad. Siempre he intentado automatizar lo que puede automatizarse y aislarlo en contenedores Docker, así que aquí escribo sobre lo que funciona y lo que no.
+
+Contacto: [LinkedIn](https://linkedin.com/in/viticlick/) · [GitHub](https://github.com/viticlick)
